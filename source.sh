@@ -13,5 +13,3 @@ deb https://mirrors.ustc.edu.cn/ubuntu/ focal-updates main restricted universe m
 deb https://mirrors.ustc.edu.cn/ubuntu/ focal-backports main restricted universe multiverse
 # deb-src https://mirrors.ustc.edu.cn/ubuntu/ focal-backports main restricted universe multiverse">/etc/apt/sources.list
 sudo apt update
-sudo apt full-upgrade
-sudo apt install git wget gcc g++ build-essential
