@@ -1,4 +1,4 @@
-# shell-tools shell脚本工具
+# ubuntu换源脚本工具
 
 ubuntu-source.sh可实现自动更换Ubuntu的软件源为国内镜像源。
 
